@@ -1,31 +1,29 @@
 const data = {
-    name: "Prajwal Gangawane",
-    job_role: "Associate Software Developer",
-    dp_image: "prajwalgangawane.jpg",
-    email: "prajwal.gangawane14@gmail.com",
+    name: " Jayashree Surwade ",
+    job_role: " BE  Apprentice ",
+    dp_image: "jayashreesurwade.jpg",
+    email: " jayashreesurwade99@gmail.com",
     location: "Pune, India",
-    phone: "+91-8830023869",
-    dob: "10/16/1998",
+    phone: "+91-9766969064",
+    dob: "02/18/1999",
 
-    profile: `A energetic passionate and professional technology enthusiats with various hands-on with various
-    different skills ranging from various different fields like electronics, software development, application development
-    to AI/ML and Data Science.`,
-
+    profile: `To  Seek and maintain full-time position that offers professional challenges.`,
+ utilizing interpersonal skills, excellent time management and  problem solving skills.
     employment_history: [
         {
-            role: "Associate Software Developer",
-            company: "Candent Technologies Pvt Ltd",
+            role: "BE Apprentice",
+            company: " Bharat Electronics  Ltd",
             location: "Pune",
-            from: "August 2021",
-            to: "Present"
+            from: "December 2022",
+            to: "December 2023"
         }
     ],
 
     education: [
         {
             qualification: "SSC",
-            school: "Alphonsa High School",
-            location: "Pune",
+            school: " D.R.Kanya School",
+            location: "Amalner",
             from: "June 2004",
             to: "April 2014"
         }
